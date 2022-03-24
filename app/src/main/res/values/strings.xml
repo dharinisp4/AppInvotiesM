@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">InnoventesTest</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="setup_msg">First Few steps to help you setup a Bank Account</string>
+    <string name="pan_number">PAN Number</string>
+    <string name="birth_date">Birth Date</string>
+    <string name="kyc_msg">Providing Pan &amp; Date of Birth Helps us fetch KYC details .<b>Learn More</b></string>
+    <string name="dont_have_pan">Dont have Pan</string>
+    <string name="enter_pan">Enter Pan Number</string>
+    <string name="enter_d">Enter Date</string>
+    <string name="enter_m">Enter Month</string>
+    <string name="enter_y">Enter year</string>
+    <string name="complete">Registered Successfully</string>
+    <string name="valid_pan">Enter valid pan address </string>
+    <string name="valid_dob">Enter valid dob </string>
+</resources>
